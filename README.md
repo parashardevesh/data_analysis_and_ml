@@ -22,6 +22,7 @@ The Data Visualization project focused on creating insightful visualizations on 
 #### Each project folder contains Jupyter Notebook files (.ipynb) with detailed analyses, code implementations, and visualizations. Feel free to explore the projects and dive into the world of data analysis!
 
 *If you have any questions or suggestions, please feel free to reach out. Happy analyzing!* 
+
 📫 Email = deveshdp31oct@gmail.com, LinkedIn - https://www.linkedin.com/in/devesh-parashar/
 
 
