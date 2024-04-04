@@ -8,20 +8,21 @@ In this project, I analyzed a dataset containing information about credit card a
 The Matplotlib project involved creating various visualizations using the Matplotlib library in Python. I explored different types of plots such as line plots, bar plots, histograms, and scatter plots to visualize data effectively.
 
 3. **Volleyball League**
-For the Volleyball League project, I analyzed data related to men's volleyball league players' performance in a league. The analysis included extracting insights from player statistics, and team for which he plays.
+For the Volleyball League project, I analyzed data related to men's volleyball league players' performance in the league. The analysis included extracting insights from player statistics, and the team for which he plays.
 
 4. **World Population**
 In this project, I analyzed a dataset containing information about the world's population over time. I explored trends in population growth, analyzed demographic patterns, and visualized population distribution across different regions.
 
 5. **YouTube Statistics**
-The YouTube Statistics project involved analyzing a dataset of YouTube videos' statistics, including views, country from which youtuber is, rank based on number of subscribers, etc. I performed exploratory data analysis to uncover trends in video popularity, viewer engagement, and content categories. 
+The YouTube Statistics project involved analyzing a dataset of YouTube videos' statistics, including views, the country from which the YouTuber is, rank based on number of subscribers, etc. I performed exploratory data analysis to uncover trends in video popularity, viewer engagement, and content categories. 
 
 6. **Data Visualization**
-The Data Visualization project focused on creating insightful visualizations on **Google Play store** dataset using Python libraries such as Matplotlib, Seaborn and Plotly. I explored various techniques for visualizing data, including plotting histograms, scatter plots, box plots, and heatmaps. I also explored techniwues to plot two plots together using joint plot and plotting multiple charts on multiple columns using pair plot. 
+The Data Visualization project focused on creating insightful visualizations on the **Google Play store** dataset using Python libraries such as Matplotlib, Seaborn, and Plotly. I explored various techniques for visualizing data, including plotting histograms, scatter plots, box plots, and heatmaps. I also explored techniques to plot two plots together using a *joint plot* and plotting multiple charts on multiple columns using *pair plot*. 
 
 #### Each project folder contains Jupyter Notebook files (.ipynb) with detailed analyses, code implementations, and visualizations. Feel free to explore the projects and dive into the world of data analysis!
 
 *If you have any questions or suggestions, please feel free to reach out. Happy analyzing!* 
+📫 Email = deveshdp31oct@gmail.com, LinkedIn - https://www.linkedin.com/in/devesh-parashar/
 
 
 
